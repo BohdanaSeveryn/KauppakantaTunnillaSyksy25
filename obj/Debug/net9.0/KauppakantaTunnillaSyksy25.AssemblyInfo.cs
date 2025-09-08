@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KauppakantaTunnillaSyksy25")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b62be7c0960519780f43e4be94bc311bac71d72")]
 [assembly: System.Reflection.AssemblyProductAttribute("KauppakantaTunnillaSyksy25")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KauppakantaTunnillaSyksy25")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
