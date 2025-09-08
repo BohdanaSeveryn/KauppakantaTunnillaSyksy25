@@ -19,6 +19,11 @@ class Program
                     kauppaDB.LisaaTuote(nimi, hinta);
                     break;
                 case "H":
+                    Console.WriteLine("Anna haettavan tuotteen nimi");
+                    string? haettavanimi = Console.ReadLine();
+                    string tuotteet = kauppaDB.HaeTuotteet(haettavanimi);
+                    
+                    break;
                 case "X":
                     return;
                 default:
